@@ -865,13 +865,13 @@ body {
   border-radius: 30px;
   padding-bottom: 25px;
   transition: 0.9s;
-  background: url("ashu-pic.png") center center no-repeat;
+  background: url("ashu-pic.jpg") center center no-repeat;
   background-size: 300px;
 }
 
 .card2:hover {
   border-radius: 35px;
-  background: url("blur-ashu2.png") left center no-repeat;
+  background: url("blur-ashu.png") left center no-repeat;
   background-size: 460px;
 }
 
